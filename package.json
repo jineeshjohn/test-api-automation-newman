@@ -1,0 +1,18 @@
+{
+  "name": "test-api-automation-newman",
+  "version": "1.0.0",
+  "description": "Automate API tests and integrate with jenkins",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "Postman",
+    "test-api-automation-newman"
+  ],
+  "author": "jjohn",
+  "license": "ISC",
+  "devDependencies": {
+    "newman": "^4.1.0"
+  }
+}
