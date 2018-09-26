@@ -4,7 +4,7 @@
   "description": "Automate API tests and integrate with jenkins",
   "main": "index.js",
   "scripts": {
-    "test": "node index.js"
+    "test": "node src/index.js"
   },
   "keywords": [
     "Postman",
